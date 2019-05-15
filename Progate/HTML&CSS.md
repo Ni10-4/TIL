@@ -35,3 +35,15 @@
 block要素 -> `margin: 0 auto;`  
 inline,inline-block要素 -> `text-align: center;`
 
+### リストの点(・)消す
+``` list-style: none;```
+
+### margin は相殺しあう
+`size` = 体の大きさ  
+`padding` = 服  
+`border` = 輪郭  
+`margin` = パーソナルスペース  
+相殺しあえるのは物理的にパーソナルスペースのみ  
+
+
+### 
