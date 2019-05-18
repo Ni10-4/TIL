@@ -47,4 +47,6 @@ inline,inline-block要素 -> `text-align: center;`
 
 
 
-### clear: left; is GOD
+### clear: left; 
+フロートの解除。親要素の高さ維持のために使うことが多い  
+その親要素の最後に空のタグを作り、適用する  
