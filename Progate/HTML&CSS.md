@@ -52,4 +52,4 @@ inline,inline-block要素 -> `text-align: center;`
 その親要素の最後に空のタグを作り、適用する  
 
 
-### less
+### 回線遅い問題
